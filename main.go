@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/yaolixiao/golang_common/lib"
-	"app/ginscaffold/module-ginscaffold/router"
+	"github.com/yaolixiao/ginscaffold/router"
 	"os"
 	"os/signal"
 	"syscall"

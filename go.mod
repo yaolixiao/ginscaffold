@@ -1,4 +1,4 @@
-module app/ginscaffold/module-ginscaffold
+module github.com/yaolixiao/ginscaffold
 
 go 1.14
 
